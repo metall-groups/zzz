@@ -1,3 +1,12 @@
+.leftcolumn {
+width: 27%; /* 270px / 1000px = 0,27 */
+float: left;
+}
+ 
+.rightcolumn {
+width: 73%; /* 730px / 1000px = 0,73 */
+float: right;
+}
 body{
   background-color:#DBADFF;
 
