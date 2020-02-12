@@ -30,11 +30,7 @@ width: 0px;
 text-decoration:none;
 	color:white;
 
-}
-.s5{
-	size: 20px;
-	
-}
+
 /*.s4{
 background-color:yellow;	
 	width:100%;
@@ -46,9 +42,27 @@ background-color:yellow;
 }
 .s6{
 	padding-top:0px;
-	
+	float: left;
+ 
+ padding-right:5px;
 }
 .s7{
-background-color:white;
+	background-color:white;
 	 
+}
+.s8{
+text-align:center;
+ text-decoration: underline;
+ font-size:30px;
+margin-bottom:-20px;
+}
+.s9{
+	text-align:center;
+	font-size:22px;
+	margin-bottom: -20px;
+}
+.s10{
+	padding-top: 5px;
+	margin-bottom:-65px;
+	font-size: 19px;
 }
